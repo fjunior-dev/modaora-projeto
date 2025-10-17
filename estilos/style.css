@@ -26,7 +26,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 20px 40px;
-    background-color: #162028;    
+    background-color: #162028;
 }
 
 .hero-area {
@@ -65,6 +65,8 @@ body {
     text-align: center; 
     gap: 40px;
     margin: 80px;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .sessao-main .h1-sm {
@@ -75,6 +77,12 @@ body {
 .sessao-main .p-sm {
     color: #555;
     line-height: 30px;
+}
+
+.sessao-main .sessao-texto {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .sessao-cards {
@@ -108,7 +116,7 @@ body {
 
 .pre-footer {
     background-image: url(../imagens/bg_footer.png);
-    width: 100%;
+    width: 100vw;
     min-height: 640px;
     background-size: cover;
     background-position: center center;
@@ -120,6 +128,7 @@ body {
     text-align: left;
     gap: 30px;
     color: white;
+    margin: 0;
 }
 
 .pre-footer .h2-pf {
