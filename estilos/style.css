@@ -107,7 +107,7 @@ body {
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 80px;
     justify-content: center; /* centraliza verticalmente */
     align-items: left;     /* centraliza horizontalmente */
     text-align: left;
@@ -117,7 +117,8 @@ body {
 
 .footer .h1-footer {
     font-family: 'Italiana';
-    line-height: 48px;
+    line-height: 64px;
+    font-size: 48px;
     
 }
 
@@ -126,9 +127,14 @@ body {
     line-height: 24px;
 }
 
-.footer .copy-ft {
+.copy-ft {
     background-color: #0b171f;
     width: 100vw;
+    padding: 16px;
+    color: #6f8597;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 4px;
 }
 
 
