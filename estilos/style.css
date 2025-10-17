@@ -3,10 +3,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.fonte-italiana {
+  font-family: 'Italiana', serif;
+  font-size: 48px;
+  font-weight: 400;
+  font-style: normal;
 }
 
 body {
@@ -56,11 +64,11 @@ body {
     align-items: center;     /* centraliza horizontalmente */
     text-align: center; 
     gap: 40px;
-    margin: 20px 80px;
+    margin: 80px;
 }
 
 .texto-inicial .h1-ti {
-    font-family: 'Italiana';
+    font-size: 38px;
 
 }
 
@@ -119,6 +127,8 @@ body {
     font-family: 'Italiana';
     line-height: 64px;
     font-size: 48px;
+    font-weight: 400;
+    font-style: normal;
     
 }
 
@@ -136,6 +146,7 @@ body {
     text-align: center;
     letter-spacing: 4px;
 }
+
 
 
 
