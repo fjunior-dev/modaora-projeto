@@ -54,4 +54,4 @@ Pode ser publicado facilmente em **GitHub Pages**, **Vercel** ou **Netlify**, fu
 ### 8. Créditos  
 Desenvolvido com fins **educacionais**, para estudos de design e front-end.  
 
-**Assinado:** *f-juniordev*
+**Developed by f-juniordev - For educational purposes only.**
