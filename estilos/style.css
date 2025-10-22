@@ -81,7 +81,7 @@ body {
 
 .sessao-main .sessao-texto {
     display: flex;
-    flex-direction: ;
+    flex-direction: column;
     gap: 40px;
 }
 
